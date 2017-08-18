@@ -1,0 +1,7 @@
+﻿5c5d2fda-f50a-4311-8e36-177fc651d760-->und\5c5d2fda-f50a-4311-8e36-177fc651d760
+ccf9b169-72af-4727-ab58-eabb662f0e40-->und\ccf9b169-72af-4727-ab58-eabb662f0e40
+ccf9b169-72af-4727-ab58-eabb662f0e40.0-->Form\ФормаОтчета
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
